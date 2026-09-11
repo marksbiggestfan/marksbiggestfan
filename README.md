@@ -11,7 +11,7 @@
 
 <img width="1600" height="1680" alt="Untitled98_20260910211412" src="https://github.com/user-attachments/assets/f20fae46-9d14-495d-b8a3-8809bc6c4e37" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=1&pause=1&color=942019&center=true&multiline=true&repeat=false&width=435&lines=being+a+hero+is+bullshit.;don't+copy%2Ftake+inspo+of+my+githubs%2Fstrawpage%2Fponies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1&pause=1&color=9C0100&center=true&multiline=true&repeat=false&width=435&height=100&lines=credits+to+the+artist;don't+copy%2Ftake+inspo+of+my+githubs%2Fstrawpage%2Fponies)](https://git.io/typing-svg)
 
 <div align="center">
 <img width="400" height="400" alt="Untitled98_20260910212844" src="https://github.com/user-attachments/assets/12307cc5-30c9-4b6a-8b7b-af39465b4171" />
